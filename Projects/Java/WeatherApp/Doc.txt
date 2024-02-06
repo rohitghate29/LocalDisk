@@ -1,0 +1,8 @@
+Link : https://www.youtube.com/watch?v=QI4fH7S8tts
+
+Tech Used: 
+Ide: Eclipse
+Project : Dynamic web project
+Server : Apache Tomcat
+
+Servlet file: It only runs on server
